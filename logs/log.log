@@ -1,0 +1,26 @@
+2021-08-10 18:26:20 ERROR The student cannot be deleted because the id 0 does not exist.
+2021-08-10 18:26:20 ERROR Cannot retrieve student repository because the age provided is -1. Age cannot be negative
+2021-08-10 18:33:11 ERROR The student cannot be deleted because the id 0 does not exist.
+2021-08-10 18:33:11 ERROR Cannot retrieve student repository because the age provided is -1. Age cannot be negative
+2021-08-10 18:33:11 ERROR LastName is Horodnic. LastName should not be empty or null
+2021-08-10 18:33:11 ERROR The student could not be created because: Gender is n. Gender has to be M(m) or F(f)
+2021-08-10 18:33:11 ERROR The year of birth date is 1899. Birthdate year cannot be before the year 1900
+2021-08-10 18:33:11 ERROR The student could not be created because: The year of birth date is 1899. Birthdate year cannot be before the year 1900
+2021-08-10 18:33:11 ERROR The year of birth date is 2004. Birthdate year cannot be after the year 2003
+2021-08-10 18:33:11 ERROR The student could not be created because: The year of birth date is 2004. Birthdate year cannot be after the year 2003
+2021-08-10 18:33:11 ERROR FirstName is . FirstName should not be empty or null
+2021-08-10 18:33:11 ERROR The student could not be created because: FirstName is . FirstName should not be empty or null
+2021-08-10 18:33:11 ERROR LastName is . LastName should not be empty or null
+2021-08-10 18:33:11 ERROR The student could not be created because: LastName is . LastName should not be empty or null
+2021-08-10 18:37:23 ERROR The student cannot be deleted because the id 0 does not exist.
+2021-08-10 18:37:23 ERROR Cannot retrieve student repository because the age provided is -1. Age cannot be negative
+2021-08-10 18:37:23 ERROR LastName is Horodnic. LastName should not be empty or null
+2021-08-10 18:37:23 ERROR The student could not be created because: Gender is n. Gender has to be M(m) or F(f)
+2021-08-10 18:37:23 ERROR The year of birth date is 1899. Birthdate year cannot be before the year 1900
+2021-08-10 18:37:23 ERROR The student could not be created because: The year of birth date is 1899. Birthdate year cannot be before the year 1900
+2021-08-10 18:37:23 ERROR The year of birth date is 2004. Birthdate year cannot be after the year 2003
+2021-08-10 18:37:23 ERROR The student could not be created because: The year of birth date is 2004. Birthdate year cannot be after the year 2003
+2021-08-10 18:37:23 ERROR FirstName is . FirstName should not be empty or null
+2021-08-10 18:37:23 ERROR The student could not be created because: FirstName is . FirstName should not be empty or null
+2021-08-10 18:37:23 ERROR LastName is . LastName should not be empty or null
+2021-08-10 18:37:23 ERROR The student could not be created because: LastName is . LastName should not be empty or null
